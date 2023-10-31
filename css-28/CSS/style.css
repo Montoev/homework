@@ -1,0 +1,21 @@
+.part-1 {
+  font-family: "Open Sans",serif;
+font-size: 20px;
+line-height: 30px;
+font-style: italic;
+}
+.part-2 {
+  text-decoration: line-through;
+}
+.part-3 {
+  text-transform: uppercase;
+}
+.part-4 {
+  word-spacing: 30px;
+  line-height: 40px;
+  text-decoration: overline wavy red;
+}
+.part-5 {
+  letter-spacing: 5px;
+  text-decoration: underline double blue;
+}
