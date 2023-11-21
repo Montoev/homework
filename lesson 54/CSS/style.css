@@ -1,0 +1,30 @@
+body {
+  background: #262628;
+}
+.container {
+  padding: 20px;
+}
+.text {
+  color: #fff;
+  font-size: 2em;
+}
+.rectangle {
+  background: #fff;
+  border-radius: 10px;
+  min-height: 100px;
+  max-width: 50vw;
+  position: fixed;
+  left: 50%;
+  right: 50px;
+  bottom: 100px;
+}
+.circle {
+  background: red;
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  position: absolute;
+  left: 100px;
+  bottom: 50%;
+}
+
